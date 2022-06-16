@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body {
+    background-color: rgb(29, 25, 35);
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 30px;
+    position: relative;
+
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 14px 30px;
+    letter-spacing: 3px;
+}
+
+.topnav a:hover {
+    color: black
+}
+
+.topnav a.active {
+    background: #04AA;
+}
+
+
+.main_h1 {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-right: 20px;
+    width: 85%;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.5;
+    padding-left: 20px;
+    position: relative;
+    
+}
+
+.header {
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+
+}
+
+.meta-label {
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    color: #999;
+    text-transform: uppercase;
+    font-size: 13px;
+    position: relative;
+}
+
+.meta-value{
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.meta-label2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.about {
+    text-align: center;
+}
+
+.content {
+
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 50px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: white;
+    word-spacing: 10px;
+    background-color: black;
+}
+
+hr{
+    width: 260px;
+}
+
+.content-text{
+    text-align: left;
+    content: flex;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table, th{
+    padding-left: 50px;
+    text-align: center;
+}
+
+.table-header{
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+tr {
+    border-bottom: 1px solid #ddd;
+}
+
+td:hover {
+    background-color: #D6EEEE;
+    color: black;
+    
+}
+
+.meta-label{
+    text-align: left;
+    font-size: 20px;
+}
+.cirriculum{
+    font-size: 15px;
+    color: #f2f2f2;
+}
+
+.last{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.add-details{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: white;
+    word-spacing: 10px;
+    background-color: black;
+    
+}
+
+.add-h1{
+    text-align: center;
+    
+}
+
+.fees-details{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: white;
+    word-spacing: 10px;
+    background-color: black;
+
+}
+.fess-details{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.fees-h3{
+    color: white;
+    font-family: 'Open Sans', sans-serif;   
+}
+
+.infra-h1{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;  
+}
+
+.infra-details{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: white;
+    word-spacing: 10px;
+    background-color: black;
+
+}
+
+.sport-active{
+    color: rgb(72, 141, 72);
+}
+
+.extra-cir{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: white;
+    word-spacing: 10px;
+    background-color: black;
+}
+
+.extra-title{
+    text-align: center;
+}
+
+.school-time{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: white;
+    word-spacing: 10px;
+    background-color: black;
+}
+
+.school-time-title{
+text-align: center;
+}
+
+.faq{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: white;
+    word-spacing: 10px;
+    background-color: black; 
+}
+
+.faq-title{
+    text-align: center;
+}

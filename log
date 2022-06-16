@@ -1,0 +1,40 @@
+<div class="school-stats row">
+                                                <div class="">
+                                                    <div class="text-muted">Year Established</div>
+                                                    <div class="h5">
+                                                        1995
+
+                                                    </div>
+                                                </div>
+                                                <div class="">
+                                                    <div class="text-muted">School Type</div>
+                                                    <div class="h5"><strong>Society</strong><strong></strong></div>
+                                                </div>
+                                                <div class="">
+                                                    <div class="text-muted">Management</div>
+                                                    <div class="h5">Uttar Pradesh Police Shiksha Samiti</div>
+                                                </div>
+                                                <div class="">
+                                                    <div class="text-muted">Gender</div>
+                                                    <div class="h5">Coed</div>
+                                                </div>
+                                                <div class="">
+                                                    <div class="text-muted">Boarding</div>
+                                                    <div class="h5"><strong></strong><strong>Day School</strong></div>
+                                                </div>
+                                                <div class="">
+                                                    <div class="text-muted">Grades</div>
+                                                    <div class="h5">Class
+                                                        <!-- -->KG 1
+                                                        <!-- --> - Class
+                                                        <!-- -->XII
+                                                    </div>
+                                                </div>
+                                                <div class="">
+                                                    <div class="text-muted">Admission Period</div>
+                                                    <div class="h5">
+                                                        March - July
+
+                                                    </div>
+                                                </div>
+                                            </div>
